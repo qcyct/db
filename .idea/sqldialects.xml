@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://D:/git/dezcloud/jeecg-boot/jeecg-boot/db/jeecgboot-mysql-5.7.sql" dialect="MySQL" />
+    <file url="file://D:/git/dezcloud/jeecg-boot/jeecg-boot/db/jeecgboot-sqlserver2019.sql" dialect="MySQL" />
+    <file url="file://D:/git/dezcloud/jeecg-boot/jeecg-boot/db/tables_nacos.sql" dialect="MySQL" />
+    <file url="file://D:/git/dezcloud/jeecg-boot/jeecg-boot/db/tables_xxl_job.sql" dialect="MySQL" />
+    <file url="file://D:/git/dezcloud/jeecg-boot/jeecg-boot/db/增量SQL/3.0.0升级到3.1.0增量脚本sql" dialect="MySQL" />
+    <file url="file://D:/微信文件/WeChat Files/wxid_avo8o3yyn0k021/FileStorage/File/2022-05/jd_month_kpi.sql" dialect="MySQL" />
+    <file url="file://D:/微信文件/WeChat Files/wxid_avo8o3yyn0k021/FileStorage/File/2022-05/jd_month_kpi_detail.sql" dialect="MySQL" />
+  </component>
+</project>
